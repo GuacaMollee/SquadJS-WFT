@@ -12,3 +12,6 @@ yarn.lock
 # IDEs
 .idea/
 .vs/
+
+# config not checking in
+config.json
